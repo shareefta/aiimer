@@ -106,13 +106,13 @@
     height: 100%;
   }
 
-  .entry-form {
+  /* .entry-form {
     background: #252020;
     border-radius: 100%;
     text-align: center;
     padding: 6em;
-    width: 450px;
-    height: 450px;
+    width: 250px;
+    height: 250px;
   }
 
   .entry-form h2 {
@@ -144,7 +144,7 @@
   .entry-form .submit-btn:hover {
     background: #3f51b5;
     color: #ffffff;
-  }
+  } */
 
   section {
     position: relative;
